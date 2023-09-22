@@ -12,13 +12,14 @@ function Hero() {
                 Hello,<span></span>
               </h1>
               <h1>
-                My Name is<span></span>
+                I aspire to be a...<span></span>
               </h1>
               <h1>
-                Donovan <span></span>
+                *list things here* <span></span>
               </h1>
               <a href="a" type="button" class="cta">
-                Portfolio
+                Continue 
+                {/* make this a button that scrolls to the next section */}
               </a>
             </div>
           </div>
